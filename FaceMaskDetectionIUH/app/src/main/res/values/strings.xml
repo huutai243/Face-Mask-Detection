@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FaceMaskDetectionIUH</string>
+    <string name="upload_photo">photo</string>
+</resources>
